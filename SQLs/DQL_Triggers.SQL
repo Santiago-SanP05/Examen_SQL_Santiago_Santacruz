@@ -95,5 +95,5 @@ DELIMITER ;
 -- 5 
 /*BloquearCompraConDeuda: Evita la compra de un cliente si tiene deuda pendiente.*/
 
-
+-- No chè :(
 
